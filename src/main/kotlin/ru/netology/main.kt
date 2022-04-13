@@ -1,6 +1,6 @@
 package ru.netology
 
-fun main(){
+fun main() {
 
     println("First App!")
 }
